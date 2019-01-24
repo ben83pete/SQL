@@ -1,0 +1,7 @@
+/*
+add new customer
+create new order
+create multiple orderlines 
+calculate new customer sales total
+
+*/
